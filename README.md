@@ -34,4 +34,4 @@ Os testes automatizados se encontram no caminho test/Projeto.AspNet.Tests/Users/
 
 ## Créditos
 
-Agradeço ao @felipealbuquerq por ter me apresentado ao projeto e ter me orientado à respeito de diversos conceitos de DDD e testes automatizados.
+Agradeço ao <a href="https://github.com/felipealbuquerq">@felipealbuquerq</a> por ter me apresentado ao projeto e ter me orientado à respeito de diversos conceitos de DDD e testes automatizados.
