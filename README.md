@@ -1,6 +1,6 @@
 ## Introdução
 
-Esse projeto tem como template o projeto AspNet Boilerplate, um template de DDD de código aberto, disponível em https://aspnetboilerplate.com/. Esse repositório tem como objetivo demonstrar alguns testes automatizados escritos por mim tendo essa arquitetura como exemplo.
+Esse projeto tem como template o projeto <a href="https://github.com/aspnetboilerplate/aspnetboilerplate" target="_blank">AspNet Boilerplate</a>, um template de DDD de código aberto, disponível em https://aspnetboilerplate.com/. Esse repositório tem como objetivo demonstrar alguns testes automatizados escritos por mim tendo essa arquitetura como exemplo.
 
 
 
@@ -34,4 +34,4 @@ Os testes automatizados se encontram no caminho test/Projeto.AspNet.Tests/Users/
 
 ## Créditos
 
-Agradeço ao <a href="https://github.com/felipealbuquerq">@felipealbuquerq</a> por ter me apresentado ao projeto e ter me orientado à respeito de diversos conceitos de DDD e testes automatizados.
+Agradeço ao <a href="https://github.com/felipealbuquerq" target="_blank">@felipealbuquerq</a> por ter me apresentado ao projeto e ter me orientado à respeito de diversos conceitos de DDD e testes automatizados.
